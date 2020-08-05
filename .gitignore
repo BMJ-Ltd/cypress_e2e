@@ -1,0 +1,10 @@
+# dependencies
+/node_modules
+
+# ide
+.idea
+.vscode
+
+# cypress tests
+cypress/screenshots
+cypress/videos
