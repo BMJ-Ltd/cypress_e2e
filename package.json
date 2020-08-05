@@ -1,0 +1,17 @@
+{
+  "name": "cypress_e2e",
+  "version": "1.0.0",
+  "description": "test automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^4.12.1",
+    "cypress-cucumber-preprocessor": "^2.5.4"
+  },
+  "cypress-cucumber-preprocessor": {
+    "step_definitions": "cypress/step_definitions"
+  }
+}

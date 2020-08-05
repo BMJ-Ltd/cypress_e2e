@@ -1,0 +1,7 @@
+{
+    "baseUrl":"https://bmj.com",
+    "pluginsFile":"cypress/plugins",
+    "pageLoadTimeout": 500000,
+    "defaultCommandTimeout": 20000
+    
+}
